@@ -11,7 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("1708A");
-
+            Console.WriteLine("1708D");
 
             Console.WriteLine("1708C");
 
